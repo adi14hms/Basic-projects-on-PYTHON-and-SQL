@@ -1,0 +1,1 @@
+SELECT * FROM fitness_db.customer_details;
